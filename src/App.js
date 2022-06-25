@@ -6,6 +6,14 @@ function App() {
     <div className="App">
       <div className="App-header">
        <div>amvincible</div>
+    <div>
+    by 
+    Purushottam
+    Ajay
+    Sajan
+    Rushikesh
+    </div>
+    
        </div>
     </div>
   );
