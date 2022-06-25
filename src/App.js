@@ -5,14 +5,8 @@ function App() {
   return (
     <div className="App">
       <div className="App-header">
-       <div>amvincible</div>
-    <div>
-    by 
-    Purushottam
-    Ajay
-    Sajan
-    Rushikesh
-    </div>
+       <div>Welcome to Amvincible</div>
+  
     
        </div>
     </div>
